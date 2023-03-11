@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dropdowns App</string>
+    <string name="label_dropdown_brand">Seleccione una marca</string>
+    <string name="label_dropdown_model">Seleccione un modelo</string>
+</resources>
